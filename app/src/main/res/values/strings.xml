@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ExemploLinearLayout1</string>
+    <string name="titulo_1">Um título Bem legal1</string>
+    <string name="titulo_2">Um título Bem legal2</string>
+    <string name="titulo_3">Um título Bem legal3</string>
+    <string name="saudacao">Seja Bem Vindo</string>
+    <string name="saida">tchau</string>
+</resources>

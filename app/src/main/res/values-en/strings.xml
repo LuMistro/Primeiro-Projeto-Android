@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saida">bye</string>
+    <string name="saudacao">welcome</string>
+    <string name="titulo_1">nice title 1</string>
+    <string name="titulo_2">Nice title 2</string>
+    <string name="titulo_3">Nice title 3</string>
+</resources>
